@@ -1,0 +1,28 @@
+#Five simple Python scripts that you can try running:
+
+#Printing a message to the console:
+
+print("Hello, World!")
+
+#Storing a value in a variable and printing it:
+
+x = 10
+print(x)
+
+#Using a for loop to print the numbers 1 to 10:
+
+for i in range(1, 11):
+    print(i)
+
+#Defining a function to add two numbers and printing the result:
+
+def add(a, b):
+    return a + b
+
+print(add(3, 4))
+
+#Reading and printing the contents of a file:
+
+with open('file.txt', 'r') as f:
+    contents = f.read()
+    print(contents)
