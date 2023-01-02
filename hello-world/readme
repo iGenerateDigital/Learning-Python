@@ -1,0 +1,17 @@
+<h1>Hello, World! Python Script<h1>
+<p>This is a simple "Hello, World!" Python script that prints the text "Hello, World!" to the console.</p>
+
+<h2>Running the script<h2>
+<p>To run the script, open a terminal and navigate to the directory containing the script. Then, type the following command:</p>
+
+<p>python hello_world.py</p>
+
+<h2>Output</h2>
+<p>The script will output the following text to the console:</p>
+
+<p>Hello, World!</p>
+
+<h2>equirements</h2>
+<p>This script requires Python 3 to be installed on your machine. You can download Python 3 from the Python website.</p>
+
+<p>I hope you find this script useful! Let me know if you have any questions or suggestions.</p>

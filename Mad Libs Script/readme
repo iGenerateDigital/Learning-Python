@@ -1,0 +1,24 @@
+<h1>Mad Libs Python Script</h1>
+<p>This is a simple Mad Libs Python script that prompts the user for a series of words and then generates a story using those words.</p>
+
+<h2>Running the script</h2>
+<p>To run the script, open a terminal and navigate to the directory containing the script. Then, type the following command:</p>
+
+<p>python mad_libs.py</p>
+
+<h2>Input</h2>
+<p>The script will prompt the user for the following input:</p>
+
+<ul>An adjective</ul>
+<ul>A noun</ul>
+<ul>A verb</ul>
+
+<h2>Output</h2>
+<p>The script will output the following story to the console, with the user's input inserted into the appropriate places:</p>
+
+<p>The [adjective] [noun] [verb] over the lazy dog.</p>
+
+<h2>Requirements</h2>
+<p>This script requires Python 3 to be installed on your machine. You can download Python 3 from the Python website.</p>
+
+<p>I hope you find this script useful! Let me know if you have any questions or suggestions.</p>
